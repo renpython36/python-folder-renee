@@ -1,0 +1,8 @@
+print("What is your guys birthdays??")
+Lillysbday = ("March twenty seventh")
+print(Lillysbday,"is Lillys birthday")
+Anyasbday = ("November thirty")
+print(Anyasbday,"is Anyas birthday")
+Mayasbday = ("Feburary forth")
+print(Mayasbday,"is Mayas birthday")
+print("Thats everyones birthdays!!!!")
